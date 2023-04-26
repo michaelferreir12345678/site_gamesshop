@@ -116,6 +116,14 @@ form input, form textarea, form button {
     padding: 8px;
 }
 
+form input, form textarea {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(56, 56, 56);
+    border-radius: 5px;
+} 
+
+
 form button{
     background-color: #182c61;
     color: #ecf0f1;
